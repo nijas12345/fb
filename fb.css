@@ -1,0 +1,142 @@
+body{
+    margin:0;
+    font-family:halvettiva neue,halvetica , Arial, Helvetica, sans-serif; ;
+}
+.header{
+    background:#3b5998 ;
+    width: 100%;
+    height: 85px;
+}
+.logo{
+    width:50%;
+    padding-top: 32px;
+    float: left;
+
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: halvettiva neue,halvetica , Arial, Helvetica, sans-serif;
+    margin-left: 170px;
+}
+.login-label{
+color:white;
+}
+.login-controls{
+    margin-left: 115px;
+}
+.login{
+    padding-top: 10px;
+}
+.login-controls-text{
+    color:#9cb4d8;
+    font-size: 11px;
+    text-decoration: none;
+}
+.sub-btn{
+    background-color: #4267b2;
+    color:#fff;
+    height: 20px;
+    border-color:#29487d;
+    cursor:pointer;
+}
+.sub-btn:hover{
+    background-color:#4267C1 ;
+}
+.left-section{
+    width: 45%;
+    float: left;
+    padding-left: 134px;
+    padding-top:52px;
+    padding-left: 63px;
+}
+.right-section{
+    width: 40%;
+    height:1000px;
+    float:left;
+    margin-top: 50px;
+    margin-left: 141px;
+}
+.main-body{
+    background:linear-gradient(white,#D3D8E8);
+    height:1000px;
+    width:100%;
+}
+.image{
+    width: 448px;
+    margin-top: -52px;
+    margin-left: -17px;
+    
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+}
+.para1{
+    font-size: 50px;
+    float:left;
+    height:18px
+    
+}
+.para2{
+    height: 29px;
+    width: 149px;
+    margin-left: 17px;
+    margin-top: 105px;
+    font-weight:bold;
+}
+h1{
+    margin-left: -9px;
+}
+h4{
+    margin-top: -13px;
+}
+input[type=text]{
+    border:2px solid grey;
+    border-radius: 5px;
+    width:170px;
+    font:white;
+    height: 35px;
+    background-color: white;
+    font-size: 17px;
+    margin-bottom: 5px;
+}
+input[type=text2]{
+    border:2px solid grey;
+    border-radius: 5px;
+    width:350px;
+    height: 35px;
+    font-size: 17px;
+    margin-bottom: 5px;
+}
+.birthday{
+    padding-top: 7px;
+    font-weight: bold;
+    color: grey
+}
+.gender{
+    font-weight: bold;
+    color: grey;
+}
+.signup{
+    background: green;
+    color: white;
+    width: 200px;
+    height:40px;
+    border-radius: 5px;
+    font-size:20px;
+    font-weight: bold;
+    cursor:pointer;
+}
+.signup:hover{
+    background-color:rgb(19, 221, 19);
+}
+.create{
+    font-weight: bold;
+}
